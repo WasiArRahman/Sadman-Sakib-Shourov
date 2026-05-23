@@ -55,7 +55,7 @@ export function About() {
             Designing the <span className="text-transparent bg-clip-text bg-gradient-to-r from-fuchsia-400 to-cyan-400 text-glow">Future</span>.
           </h2>
           <p className="text-lg text-neutral-400 leading-relaxed">
-            I bridge the gap between aesthetics and performance. As a Creative Designer and Marketer, I build brand identities that not only look futuristic and stunning but drive real-world engagement.
+            I bridge the gap between aesthetics and performance. As a Creative Designer and Markating Expert, I build brand identities that not only look futuristic and stunning but drive real-world engagement.
           </p>
           <p className="text-lg text-neutral-400 leading-relaxed">
             Whether it's crafting a high-end visual layout or executing a full-scale digital advertising campaign, my workflow is optimized for impact, growth, and conversion.
