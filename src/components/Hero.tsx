@@ -40,7 +40,7 @@ export function Hero() {
             transition={{ duration: 0.5, delay: 0.4 }}
             className="text-lg md:text-xl text-neutral-400 max-w-2xl mx-auto lg:mx-0"
           >
-            Professional Graphic Designer and Marketing Expert with 5+ years of experience transforming visions into futuristic, engaging digital realities.
+            Professional Graphic Designer and Marketing Expert with 7+ years of experience transforming visions into futuristic, engaging digital realities.
           </motion.p>
 
           <motion.div
