@@ -34,7 +34,7 @@ export function Navbar() {
           <MessageCircle className="w-5 h-5 text-cyan-400" />
         </a>
         <a 
-          href="mailto:abdlmzd49@gmail.com"
+          href="not available yet"
           className="p-2 rounded-full border border-white/10 hover:border-fuchsia-400/50 hover:bg-fuchsia-400/10 transition-colors"
         >
           <Mail className="w-5 h-5 text-fuchsia-400" />
